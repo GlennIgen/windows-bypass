@@ -663,4 +663,5 @@ $scripts = @(
 } *&gt;&amp;1 &gt;&gt; "C:\Windows\Setup\Scripts\FirstLogon.log";
 		</File>
 	</Extensions>
+
 </unattend>
